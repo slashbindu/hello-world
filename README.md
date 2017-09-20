@@ -1,4 +1,4 @@
-# Common Common server architecture patterns  for building highly scalable applications
+# Common  server architecture patterns  for building highly scalable applications
 
 There is no one-size-fits-all solution to improving scalability and performance. 
 Belowe are a number of patterns that occur frequently:
